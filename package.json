@@ -1,0 +1,15 @@
+{
+  "name": "visiot-eslint-config",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@react-native-community/eslint-config": "^3.2.0",
+    "@react-native/eslint-config": "^0.72.2",
+    "eslint": "^8.48.0",
+    "prettier": "^3.0.3"
+  },
+  "peerDependencies": {
+    
+  }
+}
