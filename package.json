@@ -1,5 +1,5 @@
 {
-  "name": "visiot-eslint-config",
+  "name": "@visiot/visiot-eslint-config",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -8,5 +8,10 @@
     "@react-native/eslint-config": "^0.72.2",
     "eslint": "^8.48.0",
     "prettier": "^3.0.3"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Haris Handzic",
+  "description": "Eslint config we use for most of our projects"
 }
